@@ -1,0 +1,1 @@
+﻿package GL0 {		import flash.display.MovieClip;			public class 01 extends MovieClip {		var feeds:delRSSFeed = new delRSSFeed();				public function 01() {			// constructor code			addChild(feeds);		}	}	}
