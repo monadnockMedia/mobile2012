@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <application xmlns="http://ns.adobe.com/air/application/2.6">
     <id>SignalFlags-11</id>
-    <version>1.0</version>
+    <versionNumber>1.0</versionNumber>
     <filename>SignalFlags_11</filename>
     <description></description>
     <!-- To localize the description, use the following format for the description element.
@@ -29,6 +29,9 @@
         <autoOrients>false</autoOrients>
         <aspectRatio>portrait</aspectRatio>
         <renderMode>auto</renderMode>
+        <maximizable>true</maximizable>
+        <minimizable>true</minimizable>
+        <resizable>true</resizable>
     </initialWindow>
     <customUpdateUI>false</customUpdateUI>
     <allowBrowserInvocation>false</allowBrowserInvocation>
