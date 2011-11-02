@@ -1,0 +1,1 @@
+﻿package com.mobile.signalFlags {		import flash.display.MovieClip;			public class back extends flipper {						public function back(iState) {			// constructor code			super(iState);			myBtn = this.flip;		}	}	}
