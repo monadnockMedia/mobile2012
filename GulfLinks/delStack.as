@@ -1,0 +1,1 @@
+﻿package  {	///class to manage delicious "stack" arrays.  Add functions to sort, map, diff, and return arrays based on commonality	public class delStack {		public var collection:Object() // ??  create delCollection class for "history" containing array of objects, as well as focus states.		public function delStack() {			// constructor code		}	}	}

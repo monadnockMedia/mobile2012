@@ -1,0 +1,1 @@
+﻿package  {				public class delItem extends delBody {						public function delItem() {			// constructor code		}	}	}
