@@ -1,0 +1,1 @@
+﻿package com.mobile.signalFlags {		import flash.display.MovieClip;	import com.nestor.elements.maskedDisplacement;		public class mainSails extends maskedDisplacement {						public function mainSails() {			// constructor code			link(this.sail_mc, this.displace_mc);			noiseLength = 700;			noiseWidth = 1;			build();			start();		}	}	}
