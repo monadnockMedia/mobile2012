@@ -1,0 +1,1 @@
+﻿package com.mobile.signalFlags {			public class threeFlag extends flagList {						public function threeFlag() {			this._flagMC = [this.flag1,this.flag2,this.flag3];			messageText=this.mess;		}					}	}

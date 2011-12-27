@@ -1,0 +1,1 @@
+﻿package com.mobile.signalFlags {		import flash.display.MovieClip;			public class pageLeft extends dict_sect {				public function setup(_flKey:String,_flName:String,_flDef:String):void		{			this.bigFlag.letter = _flKey;			this.bigLabel.text = _flName;			this.meaning.text = _flDef;		}	}	}

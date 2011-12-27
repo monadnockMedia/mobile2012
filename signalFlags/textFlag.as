@@ -1,0 +1,1 @@
+﻿package com.mobile.signalFlags {		public class textFlag extends flagStatic {						public function textFlag() {			// constructor code		}				public override function set letter(val:String):void		{			var flVal:String;			this.field.text = val;			flVal = val.toLowerCase();			this.miniFlag_mc.gotoAndStop(flVal);		}			}	}
