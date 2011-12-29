@@ -6,5 +6,9 @@ flashProFiles/flashProID=1324409403633
 flashProFiles/asVersion=0
 flashProFiles/boundTemplate=${FLASHPRO_USERCONFIG}/ActionScript 3.0/Templates/boundClass_as3.as
 flashProFiles/classTemplate=${FLASHPRO_USERCONFIG}/ActionScript 3.0/Templates/standardClass_as3.as
+<<<<<<< HEAD
 flashProFiles/recentFiles=SignalFlags_11.fla;shipFlip11.fla;dict_page.as;dict_sect.as;dictionary.as;master.as;flagStatic.as;dictionary.xml
+=======
+flashProFiles/recentFiles=master.as;dict_sect.as;dictionary.as;dict_page.as;snd/tmp.fla;SignalFlags_11.fla;flagStatic.as;dictionary.xml
+>>>>>>> 74db81be10f7f9c6fd952ecf515ed0286d28d7a6
 flashProFiles/locations=
