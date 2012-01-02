@@ -1,0 +1,6 @@
+.actionScriptProperties
+.project
+.settings
+*.swf
+.DS_Store
+*_old
