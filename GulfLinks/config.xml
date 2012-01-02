@@ -1,1 +1,1 @@
-﻿<GulfLinks>	<main />			<feedLoader>		<host url="http://192.168.12.33" path="/gl/fetch.php" />	</feedLoader></GulfLinks>
+﻿<GulfLinks>	<main>		<itemCircle radius="550" />		<initTags>			<tag>environment</tag>			<tag>oil</tag>			<tag>pollution</tag>			<tag>weather</tag>			<tag>industry</tag>		</initTags>	</main>		<feedLoader>		<host url="http://map-server.local" path="/gl/fetch.php" />	</feedLoader></GulfLinks>
