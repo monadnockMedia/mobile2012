@@ -1,1 +1,0 @@
-﻿package com.mobile.signalFlags {			public class twoFlag extends flagList {						public function twoFlag() {			_flagMC = [this.flag1,this.flag2];			messageText=this.mess;		}	}	}
