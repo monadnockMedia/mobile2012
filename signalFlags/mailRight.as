@@ -1,0 +1,1 @@
+﻿package com.mobile.signalFlags {		import flash.events.*;			public class mailRight extends dict_sect {				public function mailRight() {			// constructor code					}					}	}
