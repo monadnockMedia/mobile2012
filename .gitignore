@@ -3,7 +3,7 @@
 .settings
 *.swf
 .DS_Store
-*_old
+*_old*
 GulfLinks.swf
 *.psd
 *.air
