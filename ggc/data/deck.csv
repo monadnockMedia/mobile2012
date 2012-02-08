@@ -1,0 +1,206 @@
+'DeckId';'DeckName';'DeckIndex';'Topic';'Body';'Environment';'EnvPt';'Economy';'EcoPt';'Energy';'EnePt'
+1;'Environment';1;'Estuary Protection';'Estuaries are places where rivers meet the sea. Their mix of salt and fresh water creates a fertile habitat for fish, birds and marine life. They are also threatened by over-population, pollution and development.
+';'Preserves healthy habitat for important species. 
+
+Establishes cleaner environment for people. 
+';2;'Limits activities like dredging and channeling rivers for shipping.
+
+Creates nursery habitat for fish and shrimp, which is good for the fishing industry.
+';0;'Makes some areas off limits for oil/gas exploration and extraction. 
+';-1
+1;'Environment';2;'Dead Zone outreach';'The Dead Zone is an area of low  oxygen in the Gulf caused by nutrients from fertilizers brought by the Mississippi River. Fish and other marine life cannot survive in the Dead Zone. Educating farmers upstream could help change how they use fertilizer and minimize its impact.
+';'Creates a healthier habitat for marine species. 
+
+Reduces the loss of marine species. ';2;'Reduces losses of fish, shrimp and oysters, which helps the fishing industry. 
+
+Educating people about the Dead Zone can be  challenging and expensive. ';0;'Growing corn for ethanol contributes to the Dead Zone as farmers use more fertilizer.
+';-1
+1;'Environment';3;'Regulate overfishing ';'Overfishing is catching fish and shellfish faster than they can reproduce. This harms species and ecosystems as well as endangers the food supply.';'Helps fish populations rebound and remain healthy year-to-year. ';1;'Upsets fishermen in the short term since fewer fish can be caught.
+
+Benefits fishing industry in the long term; creates a more sustainable fish population.
+';0;'Fishing boats use a significant amount of fuel; setting catch limits reduces fuel use. ';-1
+1;'Environment';4;'Detect    harmful algal blooms';'A harmful algal bloom, or red tide, is caused by an increase in the marine algae K.brevis. This algae releases a toxin that can kill fish in large numbers, make shellfish poisonous to humans, and produce airborne irritants that drive people from beaches. Forecasting a red tide can help minimize its impact.';'Helps reduce potential for eating contaminated fish and shellfish.
+
+
+Reduces risk of harm to humans from contaminated beaches.
+';2;'Reduces impact on tourism; gives people a chance to change their recreation plans. 
+
+Benefits fishing industry; gives fishermen a chance to fish somewhere else.';2;'Impact on energy sector is neutral or minimal.';0
+1;'Environment';5;'Restore more coastal wetlands';'Coastal wetlands include swamps, marshes and mangrove forests. They remove pollutants from water, protect against floods,  stabilize shorelines, and provide essential wildlife habitats and recreational areas.';'Increases area that serves as an important habitat for wildlife.
+
+Reduces pollution and maintain cleaner water for people and marine life.  
+
+
+Filters river water and help reduce the size of the Dead Zone.
+';3;'Provides  more recreational areas for hunting, fishing and birdwatching.
+
+Expands essential nursery habitat for fish and shrimp; good for the fishing industry.
+
+Provides important flood protection for coastal urban areas. 
+';3;'Makes some areas “off limits” for oil/gas exploration and extraction.';-1
+1;'Environment';6;'Reduce aquatic pollutants ';'The ecosystems of the Gulf are threatened by pollution from many sources. These include coastal industries, wastewater facilities, and storm run-off from cities and towns. Large cargo ships also add significant amounts of pollutants and debris.';'Increases the variety and abundance of marine species.  
+
+Reduces pollution and creates a healthier environment for people.
+';2;'Benefits the fishing industry by improving fish habitats.
+
+Benefits tourism and recreation industries by keeping beaches and other areas clean. 
+
+Treating waste and industrial discharges to remove pollutants is costly. 
+';1;'Some pollution reduction systems might require more energy.
+
+Cleaning up oil tankers is costly.';0
+1;'Environment';7;'Create more marine  sanctuaries';'Sanctuary waters provide a secure habitat for marine species, protect historically significant shipwrecks and artifacts, and preserve ecological diversity. ';'Provides additional safe habitats for species.  
+
+Serves as natural classrooms and laboratories for schools and researchers and promotes good stewardship of our oceans. ';2;'Provides recreational spots for sport fishing and diving, and supports industries such as tourism, fishing and kelp harvesting.
+
+Restricts commercial fishing and shipping traffic. 
+';0;'Prohibits oil drilling in the newly protected areas.
+
+Restricts installation of wind platforms to generate energy.';-2
+1;'Environment';8;'Control invasive species';'Ballast water discharges from transoceanic vessels are the single  largest source of aquatic non-indigenous species invasions. This threat is particularly serious in the Gulf because it is connected to the largest watershed in North America and has some of the world’s largest ports. 
+';'Reduces loss of native  species to invasive species.
+
+Preserves natural balance of the environment.
+';2;'Impacts commercial shipping through stricter regulations and enforcement. ';-1;'Impact on energy sector is neutral or minimal.';0
+2;'Economy';1;'Build more housing units';'Coastal areas are among the most popular places to live. Even though the development of the Gulf Coast can boost economic growth, the high density of people and industry is a threat to  the region’s environment.';'Reduces open space, increases erosion and reduces habitat for coastal wildlife.
+
+Increases demand on environmental resources and creates more pollution.';-2;'Increases construction-related jobs and leads to improved regional
+infrastructure.
+
+Increases tax
+revenues from additional population.';2;'Additional housing and people use more energy.
+
+Residential buildings - particularly single-family homes – makes maintenance more costly for energy companies.
+';0
+2;'Economy';2;'Build eco-friendly sewage treatment plants';'As the population increases, wastewater treatment becomes more important. Eco-friendly sewage treatment reuses the water and sludge by-products and harvests the inherent energy in sewage.';'Creates less pollution through green, efficient sewage treatment.
+
+Constructing wetlands for wastewater treatment can create productive habitat.';2;'Construction costs for environmentally sound, high-efficiency sewage treatment are higher.
+
+Over time, high-efficiency plants save money in operating costs.';0;'Environmental, high- efficiency sewage treatment uses less energy, and, in some cases, none.
+
+Methane generated from treatment plants can be used as alternative energy.';0
+2;'Economy';3;'Recruit financial and information businesses';'Financial and information businesses offer higher paying positions and do not negatively impact the environment as much as manufacturing.';'More businesses and people place more demands on the resources of the region.
+
+Non-manufacturing business is low polluting.';0;'Creates high paying jobs and improves the local economy.
+
+Businesses increase tax revenues that, in turn, support more local infrastructure.';2;'More people and more business means more energy consumption.';1
+2;'Economy';4;'Recruit manufacturing industries ';'Historically the Gulf Coast has been home to manufacturing industries such as paper mills, refineries, aerospace and defense. ';'Manufacturing has been responsible for high levels of pollution.
+
+More businesses and people place more demands on the resources of the region.';-2;'Manufacturing creates jobs for large numbers of people.
+
+Businesses increase tax revenues that, in turn, support more local infrastructure.';2;'More people and more business means more energy consumption.';1
+2;'Economy';5;'Deepen shipping channels';'Deepening existing shipping channels will allow larger ships access to the ports. Increasing port capacity means more goods can arrive more efficiently.';'Dredging can harm or destroy some habitats like seagrass beds and coral reefs.
+
+More goods transported by larger ships could reduce the amount of pollution.
+';0;'Creates more business at the ports and along the coast.
+
+Shipping is an efficient and inexpensive way to transport goods.';2;'Oil and gas are transported by ship, and larger ships mean more capacity.
+
+More shipping activity, in general, would use more fuel.';2
+2;'Economy';6;'Increase “catch limits” for fishermen ';'Raising catch limits for commercial and recreational fishing would expand both industries by allowing more fish to be caught. However, increasing the limits can endanger fish populations.';'Increased quotas can lead to overfishing, putting more species at risk.
+
+Increased quotas may result in more fishing boats, causing more disruption to habitats.';-2;'Raising the limits increases the volume of fish available to sell. 
+
+Overfishing can cause a collapse in the industry when fish become scarce.';0;'More fishing means more boats using more fuel.
+
+';1
+2;'Economy';7;'License offshore fish farms ';'Fish farms are caged systems for producing fish. A sustainable aquaculture industry would increase the locally-grown seafood supply and provide new economic opportunities.
+';'Waste and pollution from  fish farms can lead to diseases among the wild fish in the Gulf.
+
+Non-native fish can escape from farms and breed with or kill native species. ';-2;'Could disrupt local fishing communities because fish farms are often owned by large corporations.
+
+Adds local jobs for processing fish. 
+
+';0;'Fish farms are well-positioned to use alternative energy (wind, solar,  etc.).
+
+Fish farms could rent vacant offshore oil platforms as staging areas.';2
+2;'Economy';8;'Expand eco-tourism industry';'"Eco-travel” encourages tourists to enjoy the natural world in a socially responsible manner, promotes conservation, limits negative human impact, and supports the local population. 
+ ';'Increases public awareness and appreciation for the environment.
+
+Engages the tourist industry with low or no impact on the environment.';2;'Expands offerings of the tourism industry.
+
+Helps rural communities attract more tourists.
+';2;'Service industry and tourists would use more fuel and energy.
+
+Eco-tourism provides opportunity to explore alternative energy (wind, solar, etc.)';2
+3;'Energy';1;'Open new areas for offshore oil drilling';'Opening previously restricted areas, like the coast of Florida, could lead to the discovery of new oil fields.';'Oil and gas extraction is a major cause of habitat destruction (such as coastal wetlands) and pollution. 
+
+Increases risk of oil spills, which can kill species and damage habitats. 
+';-2;'Creates jobs for oil and gas related industries. 
+
+An oil spill could have devastating effects on the tourism and fishing industries.
+
+Reduces dependence on foreign sources of oil and natural gas.';1;'Opening new fields increases production and revenues. 
+
+
+
+Significant investment is required to locate oil deposits in new areas. ';0
+3;'Energy';2;'Allow deep water oil drilling ';'Deep water drilling (10,000+ feet)  is risky and expensive. However, there is the potential of finding large deposits of oil and gas.
+';'Many of the deepest wells are near the continent''s northernmost coral reefs, treasuries of marine life.
+
+Deepwater drilling is risky and oil spills are more difficult to cap in deepwater.';-2;'Creates jobs for oil and gas related industries. 
+
+An oil spill could have devastating effects on  the tourism and fishing industries.
+';0;'Deepwater wells can produce more oil than shallow water wells. 
+
+Risky investment as costs are higher and some wells don’t produce a profit. ';0
+3;'Energy';3;'Install solar plants';'Solar power is an intermittent energy source, but new technologies have made it competitive with traditional sources.';'Reduces pollution, as solar energy is a clean, carbon-free power source.  
+
+Large solar farms could cause a loss of some wildlife habitat.';0;'Renewable energy will be more affordable if fossil fuel prices continue to rise. 
+
+Reduces dependence on foreign sources of oil and natural gas. 
+
+Higher rates may be passed on to consumers by utilities. ';1;'Diversifies the energy sources for the region. 
+
+More expensive for utility companies to buy solar than fossil fuel-based electricity. 
+
+High start-up cost is balanced by free fuel source and predictable operating costs over lifetime of plant. ';0
+3;'Energy';4;'Create smart grid
+';'Modern smart grids improve energy delivery when using alternative energy sources whose intermittent supply makes maintaining stable power more complex. They also allow small energy producers to sell power to the grid, and help reduce the recovery time from power outages.
+';'Smart grids make it easier to use alternative energy sources that don’t pollute the environment. 
+
+Smart grids monitor peak usage and can make cities more energy-efficient.';2;'A modern, efficient grid is attractive to new businesses.
+
+Small businesses can generate their own wind and solar energy and sell it back.';2;'Energy companies have greater control over delivery system, creating efficiencies. 
+
+More energy sources become available as small producers sell energy to the grid. 
+
+
+
+
+';2
+3;'Energy';5;'Create offshore floating liquefied natural gas (FLNG) plants';'FLNG (floating liquefied natural gas) plants are used to extract and liquefy natural gas from offshore natural gas fields. They can be moved to new fields when one is exhausted.
+';'Eliminates need for gas pipelines and other onshore infrastructure, which helps to preserve marine and coastal environments. 
+
+Could impact fish and bird habitats with offshore lighting, noise, CO2 emissions, and possible leaks.';0;'Pumping gas to shore is expensive, FLNGs are cheaper to operate and create new economic opportunities. ';1;'Allows energy companies to tap natural gas reserves that would otherwise be “stranded”. 
+
+Offshore facilities can be moved to new fields as needed. ';1
+3;'Energy';6;'Expand the production of cellulosic ethanol fuel ';'Ethanol comes from a variety of sources like corn and switchgrass. Cellulosic ethanol, which comes from grasses, wood and other non-edible parts of plants, contains more energy than bio-ethanol, which is made from corn and other edible plants.';'Cellulosic ethanol burns cleaner than gasoline and creates less greenhouse gas emissions. 
+
+Switchgrass requires no fertilizer and is easier to grow than other ethanol sources like corn.
+
+Overharvesting switchgrass could threaten coastal habitats.';1;'The ethanol industry creates new opportunities for farmers and refiners.
+
+Creating energy from non-food crops would not reduce the amount of food for people to eat.';2;'Cellulosic ethanol has five times as much energy per unit than ethanol from corn. 
+Ethanol can be added to gasoline to create a cleaner-burning fuel. 
+The nation could produce enough ethanol to cover more than half of its gasoline needs';2
+3;'Energy';7;'Provide  energy conservation incentives';'Incentives for energy conservation can range from rebates for weatherizing buildings to discounts on efficient appliances. These incentives are available for both homes and businesses. ';'Energy conservation  lowers greenhouse gas emissions and leads to a healthier environment. ';1;'Conserving energy saves money for businesses.
+
+Creates more opportunities for companies that manufacture energy-saving products. 
+';2;'Energy conservation will help make the supply of fossil fuels last longer as the nation transitions to alternative sources.';1
+3;'Energy';8;'Invest in wind farms';'The Gulf of Mexico''s wide continental shelf offers large areas of shallow water where installing turbines is easier than deeper water. Turbines can also be placed on abandoned oil rigs.';'Wind power is clean and renewable. 
+
+Some threat to migrating birds. However,,the threat is less than other threats such as airplanes. Turbines can be shut down when birds approach. 
+';1;'Wind energy is the lowest cost of all renewable options 
+
+Building wind farms creates new economic opportunities for communities.';2;'Adds another energy source  to the region 
+
+Depending on the amount of wind at a site, it may or may not be cost competitive with traditional energy sources. ';1
+4;'Populace';1;'Regulatory Pressure';'Lorem Ipsum dolor sit amet.';'Lorem Ipsum dolor sit amet.';1;'Lorem Ipsum dolor sit amet.';-1;'Lorem Ipsum dolor sit amet.';-2
+4;'Populace';2;'Elections';'Lorem Ipsum dolor sit amet.';'Lorem Ipsum dolor sit amet.';0;'Lorem Ipsum dolor sit amet.';0;'Lorem Ipsum dolor sit amet.';1
+4;'Populace';3;'Protest';'Lorem Ipsum dolor sit amet.';'Lorem Ipsum dolor sit amet.';2;'Lorem Ipsum dolor sit amet.';-1;'Lorem Ipsum dolor sit amet.';2
+4;'Populace';4;'Boycott';'Lorem Ipsum dolor sit amet.';'Lorem Ipsum dolor sit amet.';0;'Lorem Ipsum dolor sit amet.';-1;'Lorem Ipsum dolor sit amet.';0
+4;'Populace';5;'Stockholder''s Meeting';'Lorem Ipsum dolor sit amet.';'Lorem Ipsum dolor sit amet.';-2;'Lorem Ipsum dolor sit amet.';2;'Lorem Ipsum dolor sit amet.';1
+4;'Populace';6;'TBD1';'Lorem Ipsum dolor sit amet.';'Lorem Ipsum dolor sit amet.';-1;'Lorem Ipsum dolor sit amet.';1;'Lorem Ipsum dolor sit amet.';0
+4;'Populace';7;'TBD2';'Lorem Ipsum dolor sit amet.';'Lorem Ipsum dolor sit amet.';1;'Lorem Ipsum dolor sit amet.';-2;'Lorem Ipsum dolor sit amet.';1
+4;'Populace';8;'TBD3';'Lorem Ipsum dolor sit amet.';'Lorem Ipsum dolor sit amet.';0;'Lorem Ipsum dolor sit amet.';0;'Lorem Ipsum dolor sit amet.';-1

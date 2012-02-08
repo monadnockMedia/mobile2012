@@ -1,0 +1,62 @@
+"id","Topic","Body","Environment","EnvPt","Economy","EcoPt","Energy","EnePt"
+1,"Build more housing units","Coastal areas are among the most popular places to live. Even though the development of the Gulf Coast can boost economic growth, the high density of people and industry is a threat to  the region’s environment.","Reduces open space, increases erosion and reduces habitat for coastal wildlife.
+
+Increases demand on environmental resources and creates more pollution.",-2,"Increases construction-related jobs and leads to improved regional
+infrastructure.
+
+Increases tax
+revenues from additional population.",2,"Additional housing and people use more energy.
+
+Residential buildings - particularly single-family homes – makes maintenance more costly for energy companies.
+",0
+2,"Build eco-friendly sewage treatment plants","As the population increases, wastewater treatment becomes more important. Eco-friendly sewage treatment reuses the water and sludge by-products and harvests the inherent energy in sewage.","Creates less pollution through green, efficient sewage treatment.
+
+Constructing wetlands for wastewater treatment can create productive habitat.",2,"Construction costs for environmentally sound, high-efficiency sewage treatment are higher.
+
+Over time, high-efficiency plants save money in operating costs.",0,"Environmental, high- efficiency sewage treatment uses less energy, and, in some cases, none.
+
+Methane generated from treatment plants can be used as alternative energy.",0
+3,"Recruit financial and information businesses","Financial and information businesses offer higher paying positions and do not negatively impact the environment as much as manufacturing.","More businesses and people place more demands on the resources of the region.
+
+Non-manufacturing business is low polluting.",0,"Creates high paying jobs and improves the local economy.
+
+Businesses increase tax revenues that, in turn, support more local infrastructure.",2,"More people and more business means more energy consumption.",1
+4,"Recruit manufacturing industries ","Historically the Gulf Coast has been home to manufacturing industries such as paper mills, refineries, aerospace and defense. ","Manufacturing has been responsible for high levels of pollution.
+
+More businesses and people place more demands on the resources of the region.",-2,"Manufacturing creates jobs for large numbers of people.
+
+Businesses increase tax revenues that, in turn, support more local infrastructure.",2,"More people and more business means more energy consumption.",1
+5,"Deepen shipping channels","Deepening existing shipping channels will allow larger ships access to the ports. Increasing port capacity means more goods can arrive more efficiently.","Dredging can harm or destroy some habitats like seagrass beds and coral reefs.
+
+More goods transported by larger ships could reduce the amount of pollution.
+",0,"Creates more business at the ports and along the coast.
+
+Shipping is an efficient and inexpensive way to transport goods.",2,"Oil and gas are transported by ship, and larger ships mean more capacity.
+
+More shipping activity, in general, would use more fuel.",2
+6,"Increase “catch limits” for fishermen ","Raising catch limits for commercial and recreational fishing would expand both industries by allowing more fish to be caught. However, increasing the limits can endanger fish populations.","Increased quotas can lead to overfishing, putting more species at risk.
+
+Increased quotas may result in more fishing boats, causing more disruption to habitats.",-2,"Raising the limits increases the volume of fish available to sell. 
+
+Overfishing can cause a collapse in the industry when fish become scarce.",0,"More fishing means more boats using more fuel.
+
+",1
+7,"License offshore fish farms ","Fish farms are caged systems for producing fish. A sustainable aquaculture industry would increase the locally-grown seafood supply and provide new economic opportunities.
+","Waste and pollution from  fish farms can lead to diseases among the wild fish in the Gulf.
+
+Non-native fish can escape from farms and breed with or kill native species. ",-2,"Could disrupt local fishing communities because fish farms are often owned by large corporations.
+
+Adds local jobs for processing fish. 
+
+",0,"Fish farms are well-positioned to use alternative energy (wind, solar,  etc.).
+
+Fish farms could rent vacant offshore oil platforms as staging areas.",2
+8,"Expand eco-tourism industry","""Eco-travel” encourages tourists to enjoy the natural world in a socially responsible manner, promotes conservation, limits negative human impact, and supports the local population. 
+ ","Increases public awareness and appreciation for the environment.
+
+Engages the tourist industry with low or no impact on the environment.",2,"Expands offerings of the tourism industry.
+
+Helps rural communities attract more tourists.
+",2,"Service industry and tourists would use more fuel and energy.
+
+Eco-tourism provides opportunity to explore alternative energy (wind, solar, etc.)",2
