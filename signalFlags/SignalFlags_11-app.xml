@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <application xmlns="http://ns.adobe.com/air/application/2.5">
-    <id>SignalFlags-11</id>
-    <versionNumber>1.0</versionNumber>
+    <id>com.monadnock.signalFlags</id>
+    <versionNumber>0.2</versionNumber>
     <filename>SignalFlags_11</filename>
     <description></description>
     <!-- To localize the description, use the following format for the description element.
@@ -35,5 +35,11 @@
     </initialWindow>
     <customUpdateUI>false</customUpdateUI>
     <allowBrowserInvocation>false</allowBrowserInvocation>
-    <icon></icon>
+    <icon>
+        <image16x16>icons_hide/mike16.png</image16x16>
+        <image32x32>icons_hide/mike32.png</image32x32>
+        <image48x48>icons_hide/mike48.png</image48x48>
+        <image128x128>icons_hide/mike128.png</image128x128>
+    </icon>
+    <supportedProfiles>desktop extendedDesktop</supportedProfiles>
 </application>
