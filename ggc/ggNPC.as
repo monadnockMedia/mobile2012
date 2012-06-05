@@ -1,0 +1,1 @@
+﻿package com.mobile.ggc {	import flash.display.MovieClip;		public class ggNPC extends basePlayer {	}	}
