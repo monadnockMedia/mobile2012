@@ -1,9 +1,14 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+
+hide/
+
+# Project property files
 .actionScriptProperties
+.flexProperties
+.settings/
 .project
-.settings
-*.swf
-.DS_Store
-*_old*
-GulfLinks.swf
-*.psd
-*.air
+
+#binary files
+.swf
