@@ -9,6 +9,8 @@ hide/
 .flexProperties
 .settings/
 .project
+.DS_Store
 
+/assets
 #binary files
 .swf
