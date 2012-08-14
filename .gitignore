@@ -11,4 +11,7 @@ hide/
 .project
 
 #binary files
-.swf
+*.swf
+.DS_Store
+*/.DS_Store
+
